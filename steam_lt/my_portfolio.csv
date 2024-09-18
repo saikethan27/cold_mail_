@@ -1,0 +1,21 @@
+id,Technical_skills,Links
+1,"React, Node.js, MongoDB",https://example.com/react-portfolio
+2,"Angular,.NET, SQL Server",https://example.com/angular-portfolio
+3,"Vue.js, Ruby on Rails, PostgreSQL",https://example.com/vue-portfolio
+4,"Python, Django, MySQL",https://example.com/python-portfolio
+5,"Java, Spring Boot, Oracle",https://example.com/java-portfolio
+6,"Flutter, Firebase, GraphQL",https://example.com/flutter-portfolio
+7,"WordPress, PHP, MySQL",https://example.com/wordpress-portfolio
+8,"Magento, PHP, MySQL",https://example.com/magento-portfolio
+9,"React Native, Node.js, MongoDB",https://example.com/react-native-portfolio
+10,"iOS, Swift, Core Data",https://example.com/ios-portfolio
+11,"Android, Java, Room Persistence",https://example.com/android-portfolio
+12,"Kotlin, Android, Firebase",https://example.com/kotlin-android-portfolio
+13,"Android TV, Kotlin, Android NDK",https://example.com/android-tv-portfolio
+14,"iOS, Swift, ARKit",https://example.com/ios-ar-portfolio
+15,"Cross-platform, Xamarin, Azure",https://example.com/xamarin-portfolio
+16,"Backend, Kotlin, Spring Boot",https://example.com/kotlin-backend-portfolio
+17,"Frontend, TypeScript, Angular",https://example.com/typescript-frontend-portfolio
+18,"Full-stack, JavaScript, Express.js",https://example.com/full-stack-js-portfolio
+19,"Machine Learning, Python, TensorFlow",https://example.com/ml-python-portfolio
+20,"DevOps, Jenkins, Docker",https://example.com/devops-portfolio
